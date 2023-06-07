@@ -29,7 +29,7 @@ In this example, the "Office AC" device is a window unit that is plugged into a 
 ## Prerequisites
 
 - PowerShell
-- Ezlo device
+- [Ezlo device](https://www.ezlo.com/)
 - Your device needs to have **offllineAnonymousAccess** and **offlineInsecureAccess** set to **true** as defined in Part 2 [on this page](https://support.getvera.com/hc/en-us/articles/360016339799-Ezlo-platform-How-to-use-HTTP-API-commands-aka-Luup-Requests).
 	- If you want to keep these set to false, you'll just need to modify the script. I might add this as an option later.
 
