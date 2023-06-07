@@ -59,7 +59,7 @@ Run this special command which will output the devices, the item/function names,
 
 ## Screenshots
 **Controlling the device:**
-![Controlling the device](https://github.com/asheroto/EzloDeviceNameControl/assets/49938263/98c942b4-f92d-4875-b213-1fec5fa08002)
+U![Controlling the device](https://github.com/asheroto/EzloDeviceNameControl/assets/49938263/98c942b4-f92d-4875-b213-1fec5fa08002)
 
 **ShowDevices:**
 ![ShowDevices](https://github.com/asheroto/EzloDeviceNameControl/assets/49938263/b9f6ec2d-81cd-41e8-b92c-310ea7a283c7)
