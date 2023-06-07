@@ -1,7 +1,7 @@
 
-# Control Vera Ezlo Device by Device Name
+# Control Ezlo Device by Device Name
 
-The purpose of this script is so that you can change the value of a device by the **device name** and **item/function name** instead of having to know the **device's ID**.
+Ezlo is a home automation platform that uses Z-Wave and Zigbee. This script allows you to control your Ezlo device by **device name** instead of **device ID**. It will also show you all the devices and their associated IDs and item/function names. This is useful if you want to control your Ezlo device with PowerShell or another scripting language.
 
 For example, with this script you can call this command in PowerShell:
 ```powershell
