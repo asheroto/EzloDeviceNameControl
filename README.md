@@ -3,7 +3,7 @@
 # Control Ezlo Device by Device Name
 [Ezlo](https://www.ezlo.com/) is a home automation platform that uses Z-Wave and Zigbee.
 
-This script allows you to control your Ezlo device by **device name** instead of **device ID**. It will also show you all the devices and their associated IDs and item/function names. This is useful if you want to control your Ezlo device with PowerShell or another scripting language.
+This script provides a way to manipulate your Ezlo device by using the **device name**, eliminating the need to remember or find the **device ID**. In addition, it offers the ability to **display all connected devices** along with their **corresponding IDs and item/function names**. This feature facilitates more intuitive and efficient control over your Ezlo device, particularly when integrating with PowerShell or other scripting languages.
 
 **Turn Office AC on:**
 ```powershell
