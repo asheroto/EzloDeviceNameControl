@@ -11,7 +11,9 @@ And the office AC turns on.
 ```powershell
 .\Ezlo.ps1 -DeviceName "Office AC" -ItemName "Switch" -Value 0
 ```
-And the office AC turns off. The "Office AC" is a window unit that is plugged into a Z-Wave outlet.
+And the office AC turns off.
+
+In this example, the "Office AC" device is a window unit that is plugged into a Z-Wave outlet.
 
 ## How it Works
 - The device names and IDs are gathered from `hub.devices.list`
