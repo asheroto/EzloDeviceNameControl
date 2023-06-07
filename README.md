@@ -1,4 +1,4 @@
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/asheroto)
 # Control Ezlo Device by Device Name
 
 Ezlo is a home automation platform that uses Z-Wave and Zigbee. This script allows you to control your Ezlo device by **device name** instead of **device ID**. It will also show you all the devices and their associated IDs and item/function names. This is useful if you want to control your Ezlo device with PowerShell or another scripting language.
